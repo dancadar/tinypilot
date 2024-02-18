@@ -50,7 +50,7 @@ coverage.xml
 *.log
 
 # Flask
-app_settings.cfg
+#app_settings.cfg
 
 # Sphinx documentation
 docs/_build/
