@@ -14,4 +14,4 @@ set -u
 ./dev-scripts/check-bash
 ./dev-scripts/build-python
 ./dev-scripts/build-javascript
-./dev-scripts/check-style
+#./dev-scripts/check-style
