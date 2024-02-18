@@ -2,7 +2,7 @@ import os
 import pathlib
 
 _TINYPILOT_HOME_PATH = pathlib.Path(
-    os.environ.get('TINYPILOT_HOME_DIR', '/home/tinypilot'))
+    os.environ.get('TINYPILOT_HOME_DIR', '/tinypilot'))
 
 
 def abs_path_in_home_dir(relative_path):
